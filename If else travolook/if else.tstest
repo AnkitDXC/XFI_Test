@@ -71,7 +71,49 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "4b263afe-1d36-4cb1-9c59-6bb157b64b0f",
+            "Runtime ID": "1912f5a4-9589-42af-8492-6f0a60151b67",
+            "Description": "Execute test 'Open Browser'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExecuteTestActionDescriptor",
+              "__value": {
+                "WaitOnElementsTimeout": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": false,
+                "SearchByImageFirst": 0,
+                "TestName": "Open Browser",
+                "TestPath": "If else travolook\\Open Browser.tstest",
+                "TestUniqueId": "782f3bbf-129a-4876-9381-a9a65106c789",
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 2,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "if elset30dtlkt.hsz",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "7ebf4f24-1bc8-47c2-ae63-7e6916d7fa01",
             "Description": "IF (Verify 'TextContent' 'Contains' 'Login or Sign Up' on 'LoginTop1Link')",
             "CustomDescription": null,
             "Step": {
@@ -200,7 +242,7 @@
                                   "UseStepWaitOnElementsTimout": false,
                                   "WaitOnElements": false,
                                   "SearchByImageFirst": 0,
-                                  "TestName": "login.tstest",
+                                  "TestName": "login",
                                   "TestPath": "If else travolook\\login.tstest",
                                   "TestUniqueId": "a666e527-91ed-4c23-8f3f-7d329ecb0b34",
                                   "Pause": 0,
@@ -493,7 +535,7 @@
                                   "UseStepWaitOnElementsTimout": false,
                                   "WaitOnElements": false,
                                   "SearchByImageFirst": 0,
-                                  "TestName": "login.tstest",
+                                  "TestName": "login",
                                   "TestPath": "If else travolook\\login.tstest",
                                   "TestUniqueId": "a666e527-91ed-4c23-8f3f-7d329ecb0b34",
                                   "Pause": 0,
@@ -626,7 +668,7 @@
               }
             },
             "Enabled": true,
-            "Order": 2,
+            "Order": 3,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
