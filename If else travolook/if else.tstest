@@ -30,7 +30,7 @@
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
             "Runtime ID": "6373bbfa-ba49-4c20-acfd-77fd5dc86d9e",
-            "Description": "Execute test 'Open Browser'",
+            "Description": "Execute test 'Open Browser1'",
             "CustomDescription": null,
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExecuteTestActionDescriptor",
@@ -39,8 +39,8 @@
                 "UseStepWaitOnElementsTimout": false,
                 "WaitOnElements": false,
                 "SearchByImageFirst": 0,
-                "TestName": "Open Browser",
-                "TestPath": "If else travolook\\Open Browser.tstest",
+                "TestName": "Open Browser1",
+                "TestPath": "If else travolook\\Open Browser1.tstest",
                 "TestUniqueId": "782f3bbf-129a-4876-9381-a9a65106c789",
                 "Pause": 0,
                 "RunsAgainstVersion": "",
@@ -72,7 +72,7 @@
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
             "Runtime ID": "1912f5a4-9589-42af-8492-6f0a60151b67",
-            "Description": "Execute test 'Open Browser'",
+            "Description": "Execute test 'Open Browser1'",
             "CustomDescription": null,
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExecuteTestActionDescriptor",
@@ -81,8 +81,8 @@
                 "UseStepWaitOnElementsTimout": false,
                 "WaitOnElements": false,
                 "SearchByImageFirst": 0,
-                "TestName": "Open Browser",
-                "TestPath": "If else travolook\\Open Browser.tstest",
+                "TestName": "Open Browser1",
+                "TestPath": "If else travolook\\Open Browser1.tstest",
                 "TestUniqueId": "782f3bbf-129a-4876-9381-a9a65106c789",
                 "Pause": 0,
                 "RunsAgainstVersion": "",
@@ -114,7 +114,7 @@
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
             "Runtime ID": "af81c629-359a-4a01-8e98-a9594431ba61",
-            "Description": "Execute test 'Open Browser'",
+            "Description": "Execute test 'Open Browser1'",
             "CustomDescription": null,
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExecuteTestActionDescriptor",
@@ -123,8 +123,8 @@
                 "UseStepWaitOnElementsTimout": false,
                 "WaitOnElements": false,
                 "SearchByImageFirst": 0,
-                "TestName": "Open Browser",
-                "TestPath": "If else travolook\\Open Browser.tstest",
+                "TestName": "Open Browser1",
+                "TestPath": "If else travolook\\Open Browser1.tstest",
                 "TestUniqueId": "782f3bbf-129a-4876-9381-a9a65106c789",
                 "Pause": 0,
                 "RunsAgainstVersion": "",
@@ -155,7 +155,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "7e67d3ef-eb2b-4fa8-9163-0f92fb090713",
+            "Runtime ID": "e014e774-e173-4754-ac53-15612c0def8d",
             "Description": "IF (Verify 'TextContent' 'Contains' 'Login or Sign Up' on 'LoginTop1Link')",
             "CustomDescription": null,
             "Step": {
