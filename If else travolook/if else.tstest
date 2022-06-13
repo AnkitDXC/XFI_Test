@@ -155,7 +155,49 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "e014e774-e173-4754-ac53-15612c0def8d",
+            "Runtime ID": "c25b8536-bfb3-4938-bfff-28177997d755",
+            "Description": "Execute test 'Open Browser1'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExecuteTestActionDescriptor",
+              "__value": {
+                "WaitOnElementsTimeout": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": false,
+                "SearchByImageFirst": 0,
+                "TestName": "Open Browser1",
+                "TestPath": "If else travolook\\Open Browser1.tstest",
+                "TestUniqueId": "782f3bbf-129a-4876-9381-a9a65106c789",
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 4,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "if elseeylqwn45.rll",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "be3f7bd3-e9e5-45ad-8672-f101aaaae0a5",
             "Description": "IF (Verify 'TextContent' 'Contains' 'Login or Sign Up' on 'LoginTop1Link')",
             "CustomDescription": null,
             "Step": {
@@ -710,7 +752,7 @@
               }
             },
             "Enabled": true,
-            "Order": 4,
+            "Order": 5,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
